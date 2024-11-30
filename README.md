@@ -5,9 +5,9 @@
       <img src="https://drive.google.com/uc?id=1doBylTYvOLnCkRZN3VWnWbgsiXuRjWLQ" alt="Sandara Bajio" width="150" style="border-radius: 50%;">
     </td>
     <td>
-      <h1> 🧑‍💻 Sandara B. Bajio</h3>
-      <h2> 📘 CS-2102</h3>
-      <h3> ☕ Java Programming Language</h3>
+      <h2> 🧑‍💻 Sandara B. Bajio</h2>
+      <h2> 📘 CS-2102</h2>
+      <h2> ☕ Java Programming Language</h2>
     </td>
   </tr>
 </table>
