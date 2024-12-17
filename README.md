@@ -12,8 +12,14 @@
   </tr>
 </table>
 
+##
 
-Hi everyone! I am Sandara, and I would like to welcome you to my OOP repository. This serves as the collection of my laboratory activities in this course, showcasing my progress and learning as I dive deeper into object-oriented programming. 🖥️📚
+## 🔎 Purpose of this Repository  
+Welcome to my **Object-Oriented Programming** repository! 🎉  
+
+I'm excited to share my journey with you as I explore the world of **Java Programming**. This repository contains all of my laboratory activities and progress throughout the course. It highlights my growth and learning as I dive deeper into object-oriented programming, tackling new challenges and creating practical Java applications along the way. 💻
+
+##
 
 ## 📋 Laboratory Activities Checklist
 ---
@@ -50,7 +56,7 @@ Hi everyone! I am Sandara, and I would like to welcome you to my OOP repository.
 ---
 
 ### 📌 **[Laboratory Activity 4 - 28-11-2024](https://github.com/SandaraBajio/Bajio-Sandara-B.-OOP/tree/main/BajioSandaraCS2102_OOPactivities/Laboratory%20Activities/Laboratory%20Activity%204%20-%2028-11-2024)**
-- **Shapes in Java:**
+- **[Shapes](https://github.com/SandaraBajio/Bajio-Sandara-B.-OOP/tree/main/BajioSandaraCS2102_OOPactivities/Laboratory%20Activities/Laboratory%20Activity%204%20-%2028-11-2024/Shapes)**
     - ✅ [Main.java](https://github.com/SandaraBajio/Bajio-Sandara-B.-OOP/blob/main/BajioSandaraCS2102_OOPactivities/Laboratory%20Activities/Laboratory%20Activity%204%20-%2028-11-2024/Shapes/Main.java)
     - ✅ [Shape.java](https://github.com/SandaraBajio/Bajio-Sandara-B.-OOP/blob/main/BajioSandaraCS2102_OOPactivities/Laboratory%20Activities/Laboratory%20Activity%204%20-%2028-11-2024/Shapes/Shape.java)
     - ✅ [Rectangle.java](https://github.com/SandaraBajio/Bajio-Sandara-B.-OOP/blob/main/BajioSandaraCS2102_OOPactivities/Laboratory%20Activities/Laboratory%20Activity%204%20-%2028-11-2024/Shapes/Rectangle.java)
@@ -71,5 +77,26 @@ Hi everyone! I am Sandara, and I would like to welcome you to my OOP repository.
 - **📌[Exercise Set 02](https://github.com/SandaraBajio/Bajio-Sandara-B.-OOP/tree/main/BajioSandaraCS2102_OOPactivities/Exercise%20Sets/Exercise%20Set%2002)**
   - ✅ [Car.java](https://github.com/SandaraBajio/Bajio-Sandara-B.-OOP/blob/main/BajioSandaraCS2102_OOPactivities/Exercise%20Sets/Exercise%20Set%2002/Car.java)
 ---
+
+## 📂 Instructions for Viewers  
+
+### 🚀 **Explore Activities and Code**  
+- Each activity is organized into its respective folder.  
+- Click the provided links to access **Java code files** and **output screenshots**.  
+- Topics include basic input/output, arrays, classes, objects, and more.  
+
+### 💻 **Run the Code**  
+- **Download or Clone** this repository.  
+- Use any Java IDE such as **Eclipse**, **IntelliJ**, or **NetBeans** to run the `.java` files.  
+- Ensure you have a working **Java Development Kit (JDK)** installed on your system.  
+
+### 📸 **Review Output Screenshots**  
+- Screenshots included in each folder show the expected program outputs.  
+- Use them as a reference to compare results when running the code.
+
+### 💬 **Feedback / Collaboration**
+- If you'd like to suggest improvements or collaborate, feel free to reach out via GitHub.
+
+##
 
 <p align="right"><em>✨ I have a love-hate relationship with Java. I love to hate it and hate to love it. JK! ☕ </em></p>
